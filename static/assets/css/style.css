@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background: #0c0b09;
+  background: #fff;
   color: #fff;
 }
 
@@ -443,7 +443,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.jpeg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -743,7 +743,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  /*background: url("../img/about-bg.jpg") center center;*/
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -766,7 +766,7 @@ section {
 
 .about .about-img img {
   max-width: 100%;
-  border: 4px solid rgba(255, 255, 255, 0.2);
+  border: 4px solid rgba(245, 240, 240, 0.2);
   position: relative;
 }
 
@@ -845,7 +845,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .box {
   padding: 50px 30px;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 15px rgba(247, 244, 244, 0.1);
   transition: all ease-in-out 0.3s;
   background: #1a1814;
 }
